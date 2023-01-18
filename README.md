@@ -1,9 +1,11 @@
-# FunC
-FunC Playground
+### FunC
+## FunC Playground
 
-Objective: To create a calculator smart contract on FunC language that can perform basic mathematical operations such as addition, subtraction, multiplication and division. The calculator contract should be able to accept incoming messages containing the desired operation and two operands, perform the operation and return the result.
+# Objective:
 
-Prerequisites:
+To create a calculator smart contract on FunC language that can perform basic mathematical operations such as addition, subtraction, multiplication and division. The calculator contract should be able to accept incoming messages containing the desired operation and two operands, perform the operation and return the result.
+
+# Prerequisites:
 
 Familiarity with the FunC programming language
 Knowledge of basic mathematical operations and how to implement them in code
@@ -25,7 +27,7 @@ Test the smart contract using test cases that cover a variety of operations and 
 
 Deploy the smart contract on the TON blockchain.
 
-Note:
+# Note:
 
 The contract should check if the number of operands passed to it is correct.
 The contract should check if the operation is valid.
